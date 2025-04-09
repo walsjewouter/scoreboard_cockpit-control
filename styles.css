@@ -1,0 +1,33 @@
+.teamName {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colorPicker {
+    width: 30px;
+    margin-left: 10px
+}
+
+.scoreboardConnectionStatus {
+    width: 30px;
+    margin-left: 20px;
+    fill: darkred
+}
+.ui-dialog-title {
+    white-space: normal !important; 
+    word-wrap: break-word !important;
+    display: block!important;
+    text-align: center!important;
+}
+
+.ui-dialog-titlebar-close {
+    display: none;
+}
+
+#switchLabel {
+    font-size: 12px;
+    color: white;
+    display: inline-block;
+    margin-left: 5px;
+}
