@@ -20,8 +20,11 @@
   },
   "content_scripts": [
     {
-      "css": ["styles.css"],
-      "js": ["reconnecting-websocket.min.js", "content.js"],
+      "css": ["content/styles.css"],
+      "js": [
+        "content/reconnecting-websocket.min.js", 
+        "content/content.js"
+      ],
 
       "world": "MAIN",
       "matches": [
