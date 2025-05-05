@@ -22,6 +22,7 @@
     {
       "css": ["content/styles.css"],
       "js": [
+        "content/translations.js", 
         "content/reconnecting-websocket.min.js", 
         "content/content.js"
       ],
