@@ -34,7 +34,7 @@ function getConfirmDialogText() {
             return 'Überprüfen Sie das Ergebnis vor dem Absenden mit den Mannschafts-Kapitänen!';
 
         case 1043:
-            return 'Controleer de resultaten met een team aanvoerders, voor het indienen!';
+            return 'Controleer de resultaten met de team aanvoerders, voor het indienen!';
 
         default:
             return 'Verify the result with the team captains, before submitting!';
